@@ -1,0 +1,5 @@
+logs/
+venv/
+data/model_1.pt
+data/Model_3/model_3.pt
+data/train-balanced-sarcasm.csv
